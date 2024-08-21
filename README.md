@@ -23,7 +23,7 @@ First, clone the repository to your local machine:
 
 ```bash
 git clone https://github.com/MMZeeshanAI/Varroa-Mites-Detection.git
-cd varroa-mites-detection
+cd Varroa-Mites-Detection
 ```
 
 ### 2. Create a Virtual Environment
