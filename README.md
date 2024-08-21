@@ -22,7 +22,7 @@ Ensure the following prerequisites are installed on your system:
 First, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/Varroa-Mites-Detection.git
+git clone https://github.com/MMZeeshanAI/Varroa-Mites-Detection.git
 cd varroa-mites-detection
 ```
 
